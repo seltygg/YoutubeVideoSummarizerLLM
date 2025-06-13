@@ -21,7 +21,7 @@ Streamlit is the secret sauce that ties it all together. With its user-friendly 
 
 ## 🔗Other Links:
 - Haystack: https://haystack.deepset.ai/
-- Llama 3 32K Model: https://huggingface.co/togethercomputer/LLaMA-2-7B-32K
+- Llama 3 32K Model: https://huggingface.co/togethercomputer/LLaMA-3-7B-32K
 - Llama 3 32K GGUF Model: 32K-Instruct-GGUF🦌
 
 
